@@ -1,0 +1,1 @@
+ALLIANCE_GUILDS_LIST_TEXT = ['📋Roster:']

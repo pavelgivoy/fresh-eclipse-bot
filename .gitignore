@@ -1,0 +1,14 @@
+.venv/
+.vscode/
+old_db_migrations/
+**/__pycache__/
+utils/configs/
+alembic.ini
+db_migrations/env.py
+db_migrations/script.py.mako
+db_migrations/README
+logs.txt
+tests/hq_report.txt
+tests/map_report.txt
+tests/packed_obj.txt
+utils/game_staff/ids.py
